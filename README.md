@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://chrome.google.com/webstore/detail/vibrant-color-dropper-pic/fcekakhpgmlaihglgajajbceajnhlgfn?hl=en&authuser=0">
+    <img src="https://github.com/vivekPatil45/EasyFile-Manager/blob/main/icons/icon16.png" height="96">
+    <h3 align="center">EasyFile Manager</h3>
+  </a>
+</p>
+
+----
 # EasyFile Manager
 
 ## Overview
